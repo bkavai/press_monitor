@@ -105,7 +105,7 @@ const Index = props => {
             y: {
                 title: {
                     display: true,
-                    text: "Pressure ",
+                    text: "Pressure (psi)",
                 },
             },
         },
