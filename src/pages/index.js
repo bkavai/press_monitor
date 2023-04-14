@@ -73,7 +73,6 @@ const Index = props => {
     const options = {
         animation: false,
         parsing: false,
-
         interaction: {
             mode: "nearest",
             axis: "x",
@@ -136,7 +135,7 @@ const Index = props => {
                     <CardContent>
                         <Paper style={{ padding: 10, width: 600 }}>
                             <Typography variant="h6" gutterBottom component="div">
-                                Davis Holdings
+                                Pressure Monitor (Davis Holdings)
                             </Typography>
                             <Divider />
                             <Grid container spacing={2} style={{ marginTop: 0, marginBottom: 0 }}>
